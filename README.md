@@ -1,6 +1,6 @@
 # Lab 5 — Shaders procedurales
 
-Escena de tres cuerpos celestes renderizados íntegramente mediante el software renderer en CPU. Los cuerpos no utilizan texturas ni materiales de imagen: todos sus colores se calculan en shaders de fragmentos.
+La escena con sus 3 planetas segun el proyecto final de la clase de graficas por computadora
 
 ## Cuerpos
 
